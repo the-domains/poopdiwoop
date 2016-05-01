@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Poopdiwoop]]></title>
         <description><![CDATA[Poopdiwoop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/poopdiwoop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 12:58:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 12:59:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/poopdiwoop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heinsius Clay & Tadelakt gallery]]></title>
+            <description><![CDATA[<article><h1>Heinsius Clay & Tadelakt gallery</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e13bba16ad26ddd78b270c301fe2f431f2773c8.jpg"></article>]]></description>
+            <link>http://tadelaktdesign.com/galleryclay.html</link>
+            <guid isPermaLink="false">f0ceea84-d227-4a58-9474-949db0298340</guid>
+            <pubDate>Sun, 01 May 2016 12:59:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Heinsius Clay & Tadelakt gallery]]></title>
             <description><![CDATA[<article><h1>Heinsius Clay & Tadelakt gallery</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4ec012a60531abc47d8c68d87bb096d1240bacd.jpg"></article>]]></description>
