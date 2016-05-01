@@ -1,0 +1,28 @@
+name: Poopdiwoop
+favicon: null
+layout_spectrum: 0.026169874938204885
+typography_spectrum: 0.07898174854926765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.007457779487594962
+  lightness: 0.27832168177701533
+  saturation: 0.11729293316602707
+  rhythmicContrast: 0.6178980369586498
+purpose: []
